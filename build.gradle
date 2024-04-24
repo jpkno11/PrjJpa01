@@ -34,7 +34,7 @@ dependencies {
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	
     //sql로그
-    implementation 'org.bgee.log4jdbc-log4j2:log4jdbc-log4j2-jdbc4.1:1.16'
+   //implementation 'org.bgee.log4jdbc-log4j2:log4jdbc-log4j2-jdbc4.1:1.16'
 
 }
 
